@@ -1,0 +1,28 @@
+{
+    "items":[
+        {
+            "id":1,
+            "title":"Süper Ayakkabı",
+            "brand":"super",
+            "price":"1459",
+            "category":"shoes"},
+        {
+            "id":10,
+            "title":"Süper Çanta",
+            "brand":"super",
+            "price":"2459",
+            "category":"shoes"},
+        {
+            "id":11,
+            "title":"Lüks Ayakkabı",
+            "brand":"lux",
+            "price":"3459",
+            "category":"shoes"},
+        {
+            "id":12,
+            "title":"Lüks Çanta",
+            "brand":"lux",
+            "price":"4459",
+            "category":"shoes"}
+    ]
+}
